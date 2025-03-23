@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Lucas
+ * 
  */
 public class NewClass {
     
